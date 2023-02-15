@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 Variables/Coefficients provided a non-random amount of variance to the mpg values in the data set. 
-The slope of the linear model considered to be zero? Why or why not? 
+From our linear regression model, the r-squared value is 0.7, which means roughly 70% of all predictions will be correct when using this linear model. The p-value of our linear regression is 5.35 x 10-11. There is enough evidence to reject our null hypthesis, meaning the slope of our linear model is not zero. Why or why not? 
 Does this linear modle predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
