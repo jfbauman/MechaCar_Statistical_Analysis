@@ -1,9 +1,13 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-Variables/Coefficients provided a non-random amount of variance to the mpg values in the data set. 
+Which variables/Coefficients provided a non-random amount of variance to the mpg values in the data set? 
+
 From our linear regression model, the r-squared value is 0.7, which means roughly 70% of all predictions will be correct when using this linear model. The p-value of our linear regression is 5.35 x 10-11. There is enough evidence to reject our null hypthesis, meaning the slope of our linear model is not zero. Why or why not? 
+
 Does this linear modle predict mpg of MechaCar prototypes effectively? Why or why not?
+
+![Part1Summary](https://user-images.githubusercontent.com/115032384/219176787-ac1f85b8-aea4-463e-9c42-3944f2d23a14.png)
 
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
